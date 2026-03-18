@@ -4,4 +4,4 @@ def sumDigits(n):
         sum += i
     print(sum)
 
-sumDigits(6)
+sumDigits(6)    
